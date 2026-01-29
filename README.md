@@ -36,15 +36,6 @@
    - **ATS Compatibility**: Formats and structures resumes to meet ATS standards, improving selection odds.
    - **AI-Powered Efficiency**: Uses advanced AI models and tools for precise, automated resume enhancement.
 
-   ## Table of Contents
-
-   - [Prerequisites](#prerequisites)
-   - [Getting Started](#getting-started)
-   - [Contributing](#contributing)
-   - [License](#license)
-   - [Contact](#contact)
-   - [Acknowledgements](#acknowledgements)
-
 
    ### Prerequisites
 
